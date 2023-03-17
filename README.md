@@ -1,4 +1,4 @@
-数据挖掘作业代码仓库
+datamining homework
 ==
 
-数据集选择MovieLens 10M Dataset以及Movies Dataset from Pirated Sites
+dataset: Alzheimer Disease and Healthy Aging Data In US and Movies Dataset from Pirated Sites
